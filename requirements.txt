@@ -1,0 +1,4 @@
+OpenCV-python
+numpy
+pafy
+youtube_dl
